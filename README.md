@@ -8,30 +8,15 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Tharanya:
-    def __init__(self):
-        self.name = "Tharanya Pushparaj"
-        self.location = "Batticaloa, Sri Lanka"
-        self.degree = "BSc (Hons) Data Science, Sri Lanka Technology Campus"
-        self.stack = [
-            "Python", "Java", "C/C++", "R", "SQL",
-            "TensorFlow", "Scikit-learn", "Pandas", "NumPy",
-            "Flutter", "FastAPI", "AWS"
-        ]
-        self.currently_learning = [
-            "MLOps pipelines at scale",
-            "Retrieval-Augmented Generation (RAG)",
-            "QLoRA fine-tuning of LLMs"
-        ]
-        self.fun_fact = "I've gone from drafting AutoCAD blueprints to training XGBoost classifiers 📐➡️🤖"
+### 👋 About Me
 
-    def motto(self):
-        return "Curious. Detail-oriented. Always shipping something."
+I'm a BSc (Hons) Data Science undergraduate at Sri Lanka Technology Campus, Sri Lanka. I work across machine learning pipelines, MLOps, and full-stack development — with hands-on experience building everything from cloud-based agriculture platforms to end-to-end churn prediction pipelines with automated deployment.
 
-me = Tharanya()
-print(me.motto())
-```
+My core stack includes **Python, Java, C/C++, R, and SQL**, alongside **TensorFlow, Scikit-learn, Pandas, and NumPy** for data science work, and **Flutter, FastAPI, and AWS** for building and shipping applications.
+
+Right now I'm digging into **MLOps pipelines at scale**, **Retrieval-Augmented Generation (RAG)**, and **QLoRA fine-tuning of LLMs**.
+
+Fun fact: I've gone from drafting AutoCAD blueprints to training XGBoost classifiers 📐➡️🤖
 
 <br clear="right"/>
 
