@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharanya%20Pushparaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20Undergraduate%20%7C%20ML%2FMLOps%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharanya%20Pushparaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analysis%20Enthusiast%20%7C%20Data%20Science%20Undergraduate%20%7C%20BI%20%26%20Insights&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=BSc+%28Hons%29+Data+Science+Undergraduate;Machine+Learning+%26+MLOps+Enthusiast;Building+Cloud-Native+AI+Systems;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Clear+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;BSc+%28Hons%29+Data+Science+Undergraduate;Always+Exploring%2C+Always+Analyzing)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,59 +10,71 @@
 
 ### 👋 About Me
 
-I'm a BSc (Hons) Data Science undergraduate at Sri Lanka Technology Campus, Sri Lanka. I work across machine learning pipelines, MLOps, and full-stack development — with hands-on experience building everything from cloud-based agriculture platforms to end-to-end churn prediction pipelines with automated deployment.
+I'm a BSc (Hons) Data Science undergraduate at Sri Lanka Technology Campus, Sri Lanka, and a **data analysis enthusiast** at heart. I enjoy digging into messy datasets, finding the story hidden inside the numbers, and turning that story into dashboards, reports, and decisions people can actually act on.
 
-My core stack includes **Python, Java, C/C++, R, and SQL**, alongside **TensorFlow, Scikit-learn, Pandas, and NumPy** for data science work, and **Flutter, FastAPI, and AWS** for building and shipping applications.
+My day-to-day toolkit is **SQL, Python (Pandas, NumPy), Excel, and Power BI** for exploring, cleaning, and visualizing data — backed by a growing background in **machine learning (Scikit-learn, TensorFlow)** and **MLOps** for when analysis needs to scale into production.
 
-Right now I'm digging into **MLOps pipelines at scale**, **Retrieval-Augmented Generation (RAG)**, and **QLoRA fine-tuning of LLMs**.
+Recently I've been sharpening my analysis workflow: **exploratory data analysis (EDA)**, **dashboard design**, and **data storytelling** — alongside deeper dives into RAG and LLM fine-tuning on the side.
 
-Fun fact: I've gone from drafting AutoCAD blueprints to training XGBoost classifiers 📐➡️🤖
+Fun fact: I've gone from drafting AutoCAD blueprints to building churn dashboards and XGBoost classifiers 📐➡️📊➡️🤖
 
 <br clear="right"/>
 
-### 🛠️ Tech Stack
+### 📊 Data Analysis Toolkit
 
-**Languages**
+**Core Analysis**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Visualization & BI**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Data Handling & Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**ML & MLOps (where analysis meets scale)**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Other Languages**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Web & App Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Data Science & ML Frameworks**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-
-**Cloud, MLOps & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+
+<br/>
+
+### 🔍 What I Focus On As a Data Analyst
+
+```text
+📥 Data Cleaning       → Handling missing values, outliers, inconsistent formats
+🔎 EDA                 → Distributions, correlations, trend & pattern discovery
+📈 Dashboards          → Power BI / Matplotlib visuals that answer real questions
+🧮 SQL Querying        → Joins, aggregations, window functions for reporting
+🗣️ Data Storytelling   → Turning findings into decisions stakeholders can use
+```
 
 <br/>
 
@@ -131,15 +143,15 @@ Fun fact: I've gone from drafting AutoCAD blueprints to training XGBoost classif
 
 <br/>
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (Data Analysis Angle)
 
 <div align="center">
 
-| Project | Stack | Highlights |
+| Project | Stack | Analysis Highlights |
 |---|---|---|
-| **[Customer Churn Prediction – End-to-End MLOps Pipeline](https://github.com/Tharanya06)** | Python, DVC, MLflow, Airflow, FastAPI, Docker, GitHub Actions | Built a full MLOps pipeline with data versioning & experiment tracking; best model reached **ROC-AUC 0.86**; deployed containerized FastAPI service on Hugging Face Spaces with CI/CD |
-| **[Kamatha – Cloud-Based Smart Agriculture Platform](https://github.com/Tharanya06)** | HTML, CSS, JavaScript, PHP, MySQL, AWS | Cloud platform with AI-assisted crop disease detection, real-time crop monitoring, and smart irrigation recommendations |
-| **[RFID-Based Attendance System](https://github.com/Tharanya06)** | ESP32, RFID RC522, Arduino IDE, Google Sheets API | Built a tamper-resistant RFID attendance device with real-time Google Sheets sync via Apps Script; developed secure admin login for session management |
+| **[Customer Churn Prediction – End-to-End MLOps Pipeline](https://github.com/Tharanya06)** | Python, Pandas, DVC, MLflow, Airflow, FastAPI, Docker | Deep EDA on customer behavior data to identify churn drivers; tracked experiment metrics, best model reached **ROC-AUC 0.86**; results served via a deployed FastAPI service |
+| **[Kamatha – Cloud-Based Smart Agriculture Platform](https://github.com/Tharanya06)** | HTML, CSS, JavaScript, PHP, MySQL, AWS | Analyzed crop and sensor data to power real-time monitoring dashboards and irrigation recommendations |
+| **[RFID-Based Attendance System](https://github.com/Tharanya06)** | ESP32, RFID RC522, Arduino IDE, Google Sheets API | Structured real-time attendance logs into Google Sheets for easy reporting and analysis, with secure admin access for session data |
 
 </div>
 
@@ -151,8 +163,8 @@ Fun fact: I've gone from drafting AutoCAD blueprints to training XGBoost classif
 
 | | Achievement | Details |
 |---|---|---|
-| 🔬 | Fake Engagement Detection Research | Contributed to a deep learning research project detecting inauthentic engagement (likes, comments, followers) across Facebook, Instagram, TikTok, X, and YouTube using Random Forest, SVM, XGBoost, LSTM/GRU & Transformers |
-| 📝 | QLoRA + RAG Research Proposal | Co-authored a proposal for a privacy-preserving financial assistant fine-tuning Mistral 7B with QLoRA, augmented via RAG, evaluated on FinanceBench, ROUGE-L & BERTScore |
+| 🔬 | Fake Engagement Detection Research | Analyzed engagement data (likes, comments, followers) across Facebook, Instagram, TikTok, X, and YouTube to detect inauthentic activity using Random Forest, SVM, XGBoost, LSTM/GRU & Transformers |
+| 📝 | QLoRA + RAG Research Proposal | Co-authored a proposal for a privacy-preserving financial assistant, evaluating results with FinanceBench, ROUGE-L & BERTScore metrics |
 | 🤝 | AIESEC SLTC | OGV Lead Board Volunteer, 2025 – 2026 |
 | 🎤 | WIE Day 24' | Program & Coordination Team Volunteer |
 | 💡 | InspiHER{Tech} V3.0 | Program Team Volunteer |
@@ -173,12 +185,12 @@ Fun fact: I've gone from drafting AutoCAD blueprints to training XGBoost classif
 
 </div>
 
-### 🌱 Currently Learning
+### 🌱 Currently Sharpening
 
 ```text
-🧱 MLOps → Scalable pipeline orchestration, model monitoring
-🔎 RAG → Retrieval-Augmented Generation for domain-specific Q&A
-🧠 LLM Fine-Tuning → QLoRA, quantized model adaptation
+📊 Data Analysis  → Advanced SQL, Power BI dashboards, statistical storytelling
+🧱 MLOps          → Scalable pipeline orchestration, model monitoring
+🔎 RAG            → Retrieval-Augmented Generation for domain-specific Q&A
 ```
 
 ### 📫 Connect With Me
