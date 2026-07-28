@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharanya%20Pushparaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analysis%20Enthusiast%20%7C%20Data%20Science%20Undergraduate%20%7C%20BI%20%26%20Insights&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Tharanya%20Pushparaj&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Data%20Analysis%20Enthusiast%20%7C%20Data%20Science%20Undergraduate%20%7C%20BI%20%26%20Insights&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Clear+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;BSc+%28Hons%29+Data+Science+Undergraduate;Always+Exploring%2C+Always+Analyzing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Turning+Raw+Data+into+Clear+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;BSc+%28Hons%29+Data+Science+Undergraduate;Always+Exploring%2C+Always+Analyzing)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,46 +23,46 @@ Fun fact: I've gone from drafting AutoCAD blueprints to building churn dashboard
 ### 📊 Data Analysis Toolkit
 
 **Core Analysis**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white)
 
-**Visualization & BI**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**Visualization &amp; BI**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&amp;logo=plotly&amp;logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white)
 
-**Data Handling & Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Data Handling &amp; Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&amp;logo=googlecolab&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
 
-**ML & MLOps (where analysis meets scale)**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**ML &amp; MLOps (where analysis meets scale)**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&amp;logo=apacheairflow&amp;logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&amp;logo=mlflow&amp;logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&amp;logo=dvc&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black)
 
 **Other Languages**
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&amp;logo=autodesk&amp;logoColor=white)
 
 <br/>
 
@@ -70,7 +70,7 @@ Fun fact: I've gone from drafting AutoCAD blueprints to building churn dashboard
 
 ```text
 📥 Data Cleaning       → Handling missing values, outliers, inconsistent formats
-🔎 EDA                 → Distributions, correlations, trend & pattern discovery
+🔎 EDA                 → Distributions, correlations, trend &amp; pattern discovery
 📈 Dashboards          → Power BI / Matplotlib visuals that answer real questions
 🧮 SQL Querying        → Joins, aggregations, window functions for reporting
 🗣️ Data Storytelling   → Turning findings into decisions stakeholders can use
@@ -82,25 +82,25 @@ Fun fact: I've gone from drafting AutoCAD blueprints to building churn dashboard
 
 <div align="center">
   <a href="https://github.com/Tharanya06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharanya06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharanya06&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
   </a>
   <a href="https://github.com/Tharanya06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharanya06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharanya06&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tharanya06&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=Tharanya06&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharanya06&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharanya06&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="100%"/>
 </div>
 
 ### 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tharanya06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tharanya06&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4"/>
 </div>
 
 <br/>
@@ -157,16 +157,16 @@ Fun fact: I've gone from drafting AutoCAD blueprints to building churn dashboard
 
 <br/>
 
-### 🎓 Achievements & Contributions
+### 🎓 Achievements &amp; Contributions
 
 <div align="center">
 
 | | Achievement | Details |
 |---|---|---|
-| 🔬 | Fake Engagement Detection Research | Analyzed engagement data (likes, comments, followers) across Facebook, Instagram, TikTok, X, and YouTube to detect inauthentic activity using Random Forest, SVM, XGBoost, LSTM/GRU & Transformers |
-| 📝 | QLoRA + RAG Research Proposal | Co-authored a proposal for a privacy-preserving financial assistant, evaluating results with FinanceBench, ROUGE-L & BERTScore metrics |
+| 🔬 | Fake Engagement Detection Research | Analyzed engagement data (likes, comments, followers) across Facebook, Instagram, TikTok, X, and YouTube to detect inauthentic activity using Random Forest, SVM, XGBoost, LSTM/GRU &amp; Transformers |
+| 📝 | QLoRA + RAG Research Proposal | Co-authored a proposal for a privacy-preserving financial assistant, evaluating results with FinanceBench, ROUGE-L &amp; BERTScore metrics |
 | 🤝 | AIESEC SLTC | OGV Lead Board Volunteer, 2025 – 2026 |
-| 🎤 | WIE Day 24' | Program & Coordination Team Volunteer |
+| 🎤 | WIE Day 24' | Program &amp; Coordination Team Volunteer |
 | 💡 | InspiHER{Tech} V3.0 | Program Team Volunteer |
 | ⚡ | Silicon Pulse | Promoting Team Volunteer |
 
@@ -190,18 +190,18 @@ Fun fact: I've gone from drafting AutoCAD blueprints to building churn dashboard
 ```text
 📊 Data Analysis  → Advanced SQL, Power BI dashboards, statistical storytelling
 🧱 MLOps          → Scalable pipeline orchestration, model monitoring
-🔎 RAG            → Retrieval-Augmented Generation for domain-specific Q&A
+🔎 RAG            → Retrieval-Augmented Generation for domain-specific Q&amp;A
 ```
 
 ### 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharanya-pushparaj)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tharanyapushparaj34@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/tharanya-pushparaj)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:tharanyapushparaj34@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tharanya06&color=70a5fd&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Tharanya06&amp;color=70a5fd&amp;style=flat-square)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
