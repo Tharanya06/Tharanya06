@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=BSc+%28Hons%29+Data+Science+Undergraduate;Machine+Learning+%26+MLOps+Enthusiast;Building+Cloud-Native+AI+Systems;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=BSc+%28Hons%29+Data+Science+Undergraduate;Machine+Learning+%26+Data Analytics +Enthusiast;Building+Cloud-Native+AI+Systems;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,12 @@
 
 ### 👋 About Me
 
-I'm a BSc (Hons) Data Science undergraduate at Sri Lanka Technology Campus, based in Batticaloa, Sri Lanka. I work across machine learning pipelines, MLOps, and full-stack development — with hands-on experience building everything from cloud-based agriculture platforms to end-to-end churn prediction pipelines with automated deployment.
+I am a BSc (Hons) Data Science undergraduate at Sri Lanka Technological Campus, specializing in Data Analytics and transforming data into meaningful insights.
+I am passionate about data exploration, visualization, statistical analysis, and discovering patterns that support better decision-making.
+I have experience working with data preprocessing, business intelligence tools, SQL, Python, and machine learning techniques.
+I enjoy building analytical solutions, dashboards, and predictive models to solve real-world problems.
+My goal is to leverage data-driven approaches to create impactful solutions and help organizations make informed decisions.
+
 
 My core stack includes **Python, Java, C/C++, R, and SQL**, alongside **TensorFlow, Scikit-learn, Pandas, and NumPy** for data science work, and **Flutter, FastAPI, and AWS** for building and shipping applications.
 
